@@ -1,0 +1,2 @@
+# POST /todos
+POST http://localhost:3000/todos title=Mozart created_by=1
